@@ -1,4 +1,4 @@
-# 
+# DaVinci Resolve for macOS instant Plugin: text-animation & shortcut-customization offers the most advanced DaVinci Resolve for macOS plugin, with text-animation and
 
 
 
